@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/home"
+        android:id="@+id/displayCurrenciesFragment"
+        android:icon="@drawable/home_selector"
+        />
+
+    <item
+        android:title="@string/convert"
+        android:id="@+id/convertCurrencyFragment"
+        android:icon="@drawable/convert_selector"
+        />
+
+    <item
+        android:title="@string/settings"
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/settings_selector"
+        />
+</menu>
